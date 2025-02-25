@@ -1,6 +1,8 @@
 # Hi, I'm Achraf Arabi 👋
 
-I'm a passionate Data Scientist, Software Engineer, Entrepreneur, and Full-Stack Developer. Currently, I'm a student at Université Badji Mokhtar Annaba pursuing a Master GADM, with a strong focus on data analysis, big data management, and full-stack development.
+![Animated Banner](https://media.giphy.com/media/26FL1soO2g3B7xji4/giphy.gif)
+
+I'm a passionate Data Scientist, Software Engineer, Entrepreneur, and Full-Stack Developer. I'm currently a student at Université Badji Mokhtar Annaba pursuing a Master GADM, with a strong focus on data analysis, big data management, and full-stack development.
 
 ## About Me
 
